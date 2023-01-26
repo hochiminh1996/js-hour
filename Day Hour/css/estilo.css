@@ -26,7 +26,8 @@ div#principal {
 div#principal>header {
     padding: 10px 10px;
     font-size: 1.5em;
-    width: 50%;
+    width: 60%;
+    /* border: 1px solid; */
     text-align: center;
     color: #fefefe;
 }
